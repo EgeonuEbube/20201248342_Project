@@ -1,6 +1,6 @@
 # SOE306
 This repository contains code exercises and projects for a group project for the course "Software Application Development Studio"
-- EGEONU EBUBE BRYAN           20201248342
+# - EGEONU EBUBE BRYAN           20201248342
 - SILAS PRAISE CHINONSO        20201283282
 - ATTAI BRIGHT                 20201216672
 - UCHENNA MICHAEL FRANCIS      20201220992
